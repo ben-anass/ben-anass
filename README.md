@@ -1,45 +1,37 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0D12&height=8" width="100%" />
-
-<br/>
-
-# ANASS BEN ABOU
-
-### Software Developer · Full Stack Development
-
-**I build digital experiences and turn ideas into working software.**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=190&section=header&text=ANASS%20BEN%20ABOU&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20MOROCCO&descSize=15&descAlignY=62" width="100%" />
 
 <br/>
 
-[GitHub](https://github.com/ben-anass) &nbsp; / &nbsp; [Weather App](https://meteoyoucode.vercel.app) &nbsp; / &nbsp; [Windy App](https://weather-dashboard-two-vert.vercel.app)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+in+Progress;Building+Ideas+Into+Software;Learning+Something+New+Every+Day" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=8B9BB4&center=true&vCenter=true&width=480&lines=Currently+learning+and+building.;Focused+on+clean+code+and+real+solutions.;Always+curious.+Always+creating." />
-
-<br/>
+[GitHub](https://github.com/ben-anass) · [Weather App](https://meteoyoucode.vercel.app/) · [Windy App](https://weather-dashboard-two-vert.vercel.app/)
 
 </div>
 
 ---
 
-### 01 — PROFILE
+## About
 
-I'm Anass, a developer in training at **YouCode, Morocco**.
+I'm **Anass Ben Abou**, a Full Stack Web Development student at **YouCode, Morocco**.
 
-My focus is on building practical applications, understanding how software works behind the scenes, and continuously improving my engineering skills.
+I enjoy building useful digital products, exploring backend technologies, and solving problems through code.
 
-I enjoy working across the stack — from interfaces and user experiences to application logic and backend systems.
+My goal is to become a developer who combines clean engineering with practical solutions.
 
-```text
-BASED IN       Morocco
-EDUCATION      YouCode · Full Stack Web Development
-FOCUS          Web Development / Backend / Automation
-APPROACH       Learn by building
-```
+| | |
+|:--|:--|
+| **Location** | Morocco 🇲🇦 |
+| **Education** | YouCode — Full Stack Web Development |
+| **Main focus** | JavaScript · Go · Web Development |
+| **Interests** | Backend · Automation · Linux |
 
-### 02 — TECHNOLOGIES
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -47,100 +39,88 @@ APPROACH       Learn by building
 
 </div>
 
-### 03 — SELECTED WORK
+---
 
-A selection of projects I've worked on.
+## Selected Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01 — Nour Academy
 
-**01 / NOUR ACADEMY**
+**Education platform · Web Development**
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=ben-anass&repo=Nour-Academy&theme=github_dark&hide_border=true" width="100%" />](https://github.com/ben-anass/Nour-Academy)
+A student enrollment platform for a tutoring and language academy in Nador. Includes course discovery, filtering, and an enrollment form.
 
-A course discovery and student enrollment platform designed for a local education center.
+[Repository →](https://github.com/ben-anass/Nour-Academy)
 
-`JavaScript` `HTML` `CSS`
+### 02 — Marchica Trips
 
-</td>
-<td width="50%" valign="top">
+**Tourism · Responsive Design · Accessibility**
 
-**02 / MARCHICA TRIPS**
+A responsive and accessible redesign for a tourism platform showcasing the Marchica region in Morocco.
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=ben-anass&repo=marchica-trips&theme=github_dark&hide_border=true" width="100%" />](https://github.com/ben-anass/marchica-trips)
+[Repository →](https://github.com/ben-anass/marchica-trips)
 
-A responsive and accessible tourism website redesign for the Marchica region.
+### 03 — Loup-Garou
 
-`Vite` `Tailwind CSS` `HTML`
+**JavaScript · Multiplayer Game**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+An online Werewolf game featuring public and private rooms, real-time gameplay, and cross-platform access.
 
-**03 / LOUP-GAROU**
+[Repository →](https://github.com/ben-anass/loup-garou)
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=ben-anass&repo=loup-garou&theme=github_dark&hide_border=true" width="100%" />](https://github.com/ben-anass/loup-garou)
+### 04 — Weather App
 
-An online multiplayer Werewolf game with private rooms and cross-platform gameplay.
+**JavaScript · Fetch API · Weather Data**
 
-`JavaScript`
+A multi-city weather application with current weather conditions and forecasts.
 
-</td>
-<td width="50%" valign="top">
+[Repository →](https://github.com/ben-anass/weather-app) · [Live Demo →](https://meteoyoucode.vercel.app/)
 
-**04 / WEATHER APP**
+### Other Projects
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=ben-anass&repo=weather-app&theme=github_dark&hide_border=true" width="100%" />](https://github.com/ben-anass/weather-app)
+| Project | Description |
+|:--|:--|
+| [Windy App](https://github.com/ben-anass/Windy-App) | Weather dashboard with dynamic themes |
+| [Nour Academy Back-office](https://github.com/ben-anass/Nour-Academy-Back-office) | Student registration management |
+| [Nour Academy Teacher Space](https://github.com/ben-anass/Nour-Academy-espace-enseignant) | Teacher interface |
+| [Mafia Shadow Conflict](https://github.com/ben-anass/mafia-shadow-conflict) | JavaScript game project |
+| [POOL-Z01](https://github.com/ben-anass/POOL-Z01) | Go programming |
+| [Pool C](https://github.com/ben-anass/Pool_C) | C programming exercises |
 
-A weather application featuring multi-city search, current conditions and forecasts.
+---
 
-`JavaScript` `Fetch API`
-
-[Live application ↗](https://meteoyoucode.vercel.app)
-
-</td>
-</tr>
-</table>
-
-**Other projects**
-
-- [Windy App](https://github.com/ben-anass/Windy-App) — Weather dashboard with dynamic themes.
-- [Nour Academy Back-office](https://github.com/ben-anass/Nour-Academy-Back-office) — Registration management.
-- [Nour Academy Teacher Space](https://github.com/ben-anass/Nour-Academy-espace-enseignant) — Teacher interface.
-- [Mafia Shadow Conflict](https://github.com/ben-anass/mafia-shadow-conflict) — JavaScript game project.
-- [POOL-Z01](https://github.com/ben-anass/POOL-Z01) — Go programming.
-- [Pool C](https://github.com/ben-anass/Pool_C) — C programming exercises.
-
-### 04 — GITHUB
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ben-anass&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=E6EDF3&text_color=8B9BB4&icon_color=58A6FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-anass&layout=compact&hide_border=true&bg_color=0B0D12&title_color=E6EDF3&text_color=8B9BB4" width="49%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ben-anass&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-anass&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ben-anass&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
 </div>
 
-### 05 — CURRENT DIRECTION
+---
 
-- Deepening my JavaScript and full-stack fundamentals.
+## Currently Working On
+
+- Improving my JavaScript and full-stack development skills.
 - Exploring Go and backend engineering.
-- Building useful applications with real-world use cases.
-- Improving my understanding of Linux and system technologies.
+- Building practical applications.
+- Learning more about Linux and system technologies.
 
 ---
 
 <div align="center">
 
-**OPEN TO LEARNING · BUILDING · COLLABORATING**
+### Let's build something meaningful.
+
+**Learn · Create · Improve**
 
 <br/>
 
-*Good software is built with curiosity, discipline and consistency.*
-
-<br/>
-
-[github.com/ben-anass](https://github.com/ben-anass)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1020&height=100&section=footer" width="100%" />
 
 </div>
