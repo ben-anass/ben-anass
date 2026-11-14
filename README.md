@@ -1,153 +1,142 @@
-# 👾 ANASS BEN ABOU | FULL STACK DEVELOPER IN PROGRESS
+ 
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,45:6D28D9,100:06B6D4&height=200&section=header&text=ANASS%20BEN%20ABOU&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Cyberpunk header" />
-</p>
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   █████╗ ███╗   ██╗ █████╗ ███████╗███████╗                      ║
+║  ██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔════╝                      ║
+║  ███████║██╔██╗ ██║███████║███████╗███████╗                      ║
+║  ██╔══██║██║╚██╗██║██╔══██║╚════██║╚════██║                      ║
+║  ██║  ██║██║ ╚████║██║  ██║███████║███████║                      ║
+║  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝                      ║
+║                                                                  ║
+║             FULL STACK DEVELOPER IN PROGRESS                     ║
+║                    [ YOUCODE STUDENT ]                           ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=YouCode+Student+%7C+Full+Stack+Web+Development;Learning+by+Building+Real+Projects;Turning+Ideas+Into+Code;One+Commit+Closer+to+My+Goals" alt="Typing animation" />
-</p>
+### `whoami`
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/YouCode-Student-7C3AED?style=for-the-badge" alt="YouCode student" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-06B6D4?style=for-the-badge" alt="Full Stack Web Development" />
-</p>
+**Anass Ben Abou** — Full Stack Web Development Student at **YouCode** 🇲🇦
 
----
+I'm passionate about building web applications, exploring backend technologies, and solving real-world problems through code.
 
-## 🧑‍💻 About Me
+```bash
+anass@github:~$ cat about.txt
 
-Hey! I'm **Anass Ben Abou**, a student at **YouCode**, currently learning Full Stack Web Development.
+> Location    : Morocco 🇲🇦
+> Education   : YouCode — Full Stack Web Development
+> Status      : Student / Developer in Progress
+> Interests   : Web Development, Backend, Automation, Cybersecurity
+> Mindset     : Learn. Build. Break. Improve.
+```
 
-I'm passionate about programming, problem-solving, and building practical applications that turn ideas into working solutions.
+[![GitHub](https://img.shields.io/badge/GitHub-ben--anass-181717?style=for-the-badge&logo=github)](https://github.com/ben-anass)
+[![Profile](https://img.shields.io/badge/Status-Available%20for%20Learning-00D26A?style=for-the-badge)](https://github.com/ben-anass)
 
-- 🎓 Currently studying Full Stack Web Development at YouCode.
-- 🌐 Learning how to build responsive and interactive web applications.
-- ⚙️ Practicing JavaScript and Node.js through hands-on projects.
-- 🗃️ Exploring data management, APIs, and application architecture.
-- 🐧 Interested in Linux, developer tools, and software engineering.
-- 🚀 Always learning, experimenting, and improving my code.
-
-> *"Don't just learn to code. Build something that matters."*
-
----
-
-## ⚡ Tech Stack & Tools
-
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" />
-</p>
-
-### 🛠️ Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code and Linux" />
-</p>
-
-### 📦 Other Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/JSON-Data%20Storage-292929?style=flat-square&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/Socket.IO-Realtime%20Apps-010101?style=flat-square&logo=socketdotio" alt="Socket.IO" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Learning Projects
+## `01 // TECH STACK`
 
-### 🎓 Nour Academy — Educational Platform
+```text
+[ LANGUAGES ]
+```
 
-A web platform concept for a network of tutoring and language-learning centres in Nador, Morocco.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 📚 Explore courses and available places.
-- 🔎 Search and filter course listings.
-- 📝 Work on student registration workflows.
-- 💾 Organize course information using JSON.
+```text
+[ TOOLS & TECHNOLOGIES ]
+```
 
-**Learning focus:** HTML · CSS · JavaScript · JSON
-
-### 📊 SAS Progress Console — Student Management
-
-A Node.js console application focused on managing learners and tracking their progress.
-
-- ➕ Add and consult learner records.
-- 🔍 Search and filter learners.
-- 📈 Manage results and progression data.
-- 💾 Practice persistent data storage with JSON files.
-
-**Learning focus:** JavaScript · Node.js · JSON · CLI
-
-### 🎭 Mafia: Shadow Conflict — Multiplayer Game
-
-A multiplayer social deduction game concept designed around mafia roles and automated game phases.
-
-- 🎮 Explore multiplayer game mechanics.
-- 👥 Organize players into game sessions.
-- 🔄 Experiment with real-time communication.
-- 🖥️ Build a web interface with a dark, immersive visual style.
-
-**Learning focus:** JavaScript · Node.js · Express · Socket.IO
-
-<p align="center">
-  <i>These projects represent my development journey. Their features and implementation may evolve as I continue learning.</i>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## `02 // FEATURED PROJECTS`
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=090014&title_color=A855F7&icon_color=22D3EE&text_color=E5E7EB" alt="GitHub statistics" />
-</p>
+### `01. Web Development`
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090014&title_color=A855F7&text_color=E5E7EB" alt="Most used programming languages" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| [Nour Academy](https://github.com/ben-anass/Nour-Academy) | Student enrollment portal for courses and language programs in Nador. | HTML, CSS, JavaScript |
+| [Nour Academy Back-office](https://github.com/ben-anass/Nour-Academy-Back-office) | Administration interface for managing student registrations. | JavaScript |
+| [Nour Academy Teacher Space](https://github.com/ben-anass/Nour-Academy-espace-enseignant) | Teacher-oriented space for the Nour Academy project. | HTML |
+| [Marchica Trips](https://github.com/ben-anass/marchica-trips) | Accessible and responsive redesign for a tourism platform in Nador. | HTML, Tailwind CSS, Vite |
+| [Loup-Garou](https://github.com/ben-anass/loup-garou) | Online Werewolf game with public/private rooms and cross-platform gameplay. | JavaScript |
+| [Mafia Shadow Conflict](https://github.com/ben-anass/mafia-shadow-conflict) | Mafia-themed game project. | JavaScript |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=090014&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7" alt="GitHub contribution streak" />
-</p>
+### `02. Weather Applications`
+
+| Project | Description | Demo |
+|---|---|---|
+| [Weather App](https://github.com/ben-anass/weather-app) | Multi-city weather application with current conditions and forecasts. | [Live Demo](https://meteoyoucode.vercel.app) |
+| [Windy App](https://github.com/ben-anass/Windy-App) | Responsive weather dashboard with dynamic themes and Glassmorphism UI. | [Live Demo](https://weather-dashboard-two-vert.vercel.app) |
+
+### `03. Systems & Programming`
+
+| Project | Description | Stack |
+|---|---|---|
+| [POOL-Z01](https://github.com/ben-anass/POOL-Z01) | Programming exercises and practice. | Go |
+| [Pool C](https://github.com/ben-anass/Pool_C) | C programming bootcamp exercises — FISTO Club IT FSO. | C |
 
 ---
 
-## 🎯 Current Goals
+## `03 // GITHUB ACTIVITY`
 
-- [x] Start building practical development projects.
-- [ ] Improve my JavaScript skills.
-- [ ] Strengthen my frontend and backend fundamentals.
-- [ ] Learn to design and build APIs.
-- [ ] Improve code quality, testing, and debugging.
-- [ ] Build and deploy complete web applications.
-- [ ] Collaborate on open-source projects.
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-anass&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-anass&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ben-anass&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## `04 // CURRENT MISSION`
 
-<p align="center">
-  <a href="https://github.com/NNNNani">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <!-- Add your real LinkedIn URL when available -->
-</p>
+```bash
+$ ./mission.sh
 
-<p align="center">
-  💜 Thanks for visiting my profile!
-  <br />
-  <b>LEARN • BUILD • IMPROVE • REPEAT</b>
-</p>
+[+] Improve JavaScript fundamentals
+[+] Build full-stack applications
+[+] Explore Go and backend development
+[+] Learn system administration and Linux
+[+] Develop automation tools
+[+] Collaborate on meaningful projects
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:050014&height=110&section=footer" width="100%" alt="Cyberpunk footer" />
-</p>
+[STATUS] MISSION IN PROGRESS...
+```
+
+---
+
+## `05 // CONNECT`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ben--anass-181717?style=for-the-badge&logo=github)](https://github.com/ben-anass)
+
+**"The best way to learn is to build something real."**
+
+```text
+root@anass:~# echo "Thanks for visiting my profile!"
+Thanks for visiting my profile!
+
+root@anass:~# _
+```
+
+</div>
