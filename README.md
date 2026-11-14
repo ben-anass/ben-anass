@@ -131,13 +131,13 @@ Currently developing my skills in full-stack development, backend engineering, a
 
 ```text
 ┌──────────────────────────────────────────────────────┐
-│  CURRENT OBJECTIVES                                   │
+│  CURRENT OBJECTIVES                                  │
 ├──────────────────────────────────────────────────────┤
 │  [01]  Strengthen Full Stack Development skills      │
-│  [02]  Explore Go & Backend Engineering               │
-│  [03]  Build useful and scalable applications         │
-│  [04]  Explore Linux & Cybersecurity                  │
-│  [05]  Collaborate and contribute to open source      │
+│  [02]  Explore Go & Backend Engineering              │
+│  [03]  Build useful and scalable applications        │
+│  [04]  Explore Linux & Cybersecurity                 │
+│  [05]  Collaborate and contribute to open source     │
 └──────────────────────────────────────────────────────┘
 ```
 
