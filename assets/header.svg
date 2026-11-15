@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#14213D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="240" fill="url(#bg)"/>
+  <circle cx="880" cy="40" r="120" fill="#38BDF8" opacity="0.06"/>
+  <circle cx="120" cy="220" r="90" fill="#38BDF8" opacity="0.05"/>
+  <text x="500" y="100" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="4" fill="#FFFFFF">ANASS BEN ABOU</text>
+  <rect x="300" y="120" width="400" height="2" fill="url(#line)"/>
+  <text x="500" y="158" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="18" fill="#38BDF8" opacity="1">Full Stack Development
+    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" keyTimes="0;0.28;0.33;1" values="1;1;0;0"/>
+  </text>
+  <text x="500" y="158" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="18" fill="#38BDF8" opacity="0">Backend &amp; Automation
+    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" keyTimes="0;0.33;0.38;0.61;0.66;1" values="0;0;1;1;0;0"/>
+  </text>
+  <text x="500" y="158" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="18" fill="#38BDF8" opacity="0">Always learning. Always building.
+    <animate attributeName="opacity" dur="9s" repeatCount="indefinite" keyTimes="0;0.66;0.71;0.95;1" values="0;0;1;1;0"/>
+  </text>
+  <text x="500" y="205" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3" fill="#94A3B8">DEVELOPER  |  CREATOR  |  LIFELONG LEARNER</text>
+</svg>

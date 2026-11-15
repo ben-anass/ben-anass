@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=230&section=header&text=ANASS%20BEN%20ABOU&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%26%20Backend%20Enthusiast&descSize=16&descAlignY=58" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi+I'm+Anass+%F0%9F%91%8B;Full+Stack+Development;Backend+%26+Automation;Always+learning.+Always+building." />
+<img src="./assets/header.svg" width="100%" alt="Anass Ben Abou" />
 
 <br/>
 
@@ -162,9 +160,6 @@ A multi-city weather application with current conditions and forecasts.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ben-anass&show_icons=true&theme=tokyonight&bg_color=0B1220&hide_border=true&title_color=38BDF8&icon_color=38BDF8" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-anass&layout=compact&theme=tokyonight&bg_color=0B1220&hide_border=true&title_color=38BDF8" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=ben-anass&theme=tokyonight&background=0B1220&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
@@ -186,6 +181,6 @@ A multi-city weather application with current conditions and forecasts.
 
 <sub>Designed with curiosity. Built with consistency.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=100&section=footer" width="100%" />
+<img src="./assets/footer.svg" width="100%" alt="" />
 
 </div>
