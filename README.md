@@ -1,149 +1,110 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Anass Ben Abou" />
+<img src="./assets/header.svg" width="100%" alt="Anass Ben Abou, Full Stack Developer" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ben-anass)
-[![Location](https://img.shields.io/badge/Morocco-0B1220?style=flat-square&logo=googlemaps&logoColor=38BDF8)](https://github.com/ben-anass)
-[![YouCode](https://img.shields.io/badge/YouCode-0B1220?style=flat-square&logoColor=38BDF8)](https://github.com/ben-anass)
-[![Email](https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=gmail&logoColor=38BDF8)](mailto:YOUR_EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/YOUR_LINKEDIN)
-
-</div>
-
-## Hi, I'm Anass 👋
-
-I'm a **Full Stack Web Development student at YouCode, Morocco**. I enjoy building applications, exploring backend technologies, and turning ideas into useful digital products.
-
-My approach is simple: **understand the problem, build a solution, and keep improving.**
-
-<br/>
-
-### I make *pretty* things using:
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/VITE-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-ben--anass-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/ben-anass)
+[![Email](https://img.shields.io/badge/Email-Contact-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:triat.code@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/anass-benabou-76b764393)
 
 </div>
 
 <br/>
 
-- 🔭 I'm currently working on my goal to become a great **Full Stack / Backend developer**
-- 🌱 I'm currently learning **Go, backend engineering & automation**
-- 💬 Ask me about **JavaScript, Go, Linux and web development**
-- 📫 How to reach me: [triat.code@gmail.com](mailto:triat.code@gmail.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love building things just to see how they work
+## About
 
----
+Full Stack Web Development student at **YouCode, Morocco**. I build web applications, explore backend engineering, and turn ideas into useful digital products.
 
-## Featured Projects
-
-<div align="center">
+My approach is simple: **understand the problem, build a solution, keep improving.**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Nour Academy
+**Current focus**
 
-**Education · Web Application**
-
-A student enrollment platform for a tutoring and language academy in Nador.
-
-`JavaScript` `HTML` `CSS`
-
-[View Repository ↗](https://github.com/ben-anass/Nour-Academy)
+- Full Stack Development
+- Backend Engineering with Go
+- Automation & Linux
+- Shipping real projects
 
 </td>
 <td width="50%" valign="top">
 
-### DouzTach
+**How I work**
 
-**Backend · Go · Project Management**
-
-A terminal-first project management application built around team collaboration and Scrum workflows.
-
-`Go` `Backend` `CLI`
-
-[View Repository ↗](https://github.com/ben-anass/DouzTach)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### LinkPilot AI
-
-**Artificial Intelligence · Automation**
-
-An AI-powered project focused on automating LinkedIn content workflows.
-
-`AI` `Automation`
-
-[View Repository ↗](https://github.com/ben-anass/LinkPilot-AI)
-
-</td>
-<td width="50%" valign="top">
-
-### Marchica Trips
-
-**Tourism · UI · Accessibility**
-
-A responsive and accessible redesign for a tourism platform in the Marchica region.
-
-`Vite` `Tailwind CSS`
-
-[View Repository ↗](https://github.com/ben-anass/marchica-trips)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Loup-Garou
-
-**JavaScript · Multiplayer Game**
-
-An online Werewolf game with public and private rooms and cross-platform gameplay.
-
-`JavaScript`
-
-[View Repository ↗](https://github.com/ben-anass/loup-garou)
-
-</td>
-<td width="50%" valign="top">
-
-### Weather App
-
-**JavaScript · API Integration**
-
-A multi-city weather application with current conditions and forecasts.
-
-`JavaScript` `Fetch API`
-
-[Repository ↗](https://github.com/ben-anass/weather-app) · [Live Demo ↗](https://meteoyoucode.vercel.app/)
+- Clean, readable code
+- Learn by building
+- Collaborate and share
+- Improve every day
 
 </td>
 </tr>
 </table>
 
+## Tech Stack
+
+<div align="center">
+<img src="./assets/skills.svg" width="100%" alt="Tech stack: JavaScript, Go, C, HTML, CSS, Tailwind, Vite, Git, GitHub, Linux, Docker" />
 </div>
 
-### More from my GitHub
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Nour Academy](https://github.com/ben-anass/Nour-Academy)**
+<br/>Student enrollment platform for a tutoring and language academy in Nador.
+<br/>`JavaScript` `HTML` `CSS`
+
+</td>
+<td width="50%" valign="top">
+
+**[DouzTach](https://github.com/ben-anass/DouzTach)**
+<br/>Terminal-first project management app built around Scrum workflows.
+<br/>`Go` `Backend` `CLI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[LinkPilot AI](https://github.com/ben-anass/LinkPilot-AI)**
+<br/>AI-powered automation of LinkedIn content workflows.
+<br/>`AI` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+**[Marchica Trips](https://github.com/ben-anass/marchica-trips)**
+<br/>Responsive, accessible redesign of a tourism platform.
+<br/>`Vite` `Tailwind CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Loup-Garou](https://github.com/ben-anass/loup-garou)**
+<br/>Online Werewolf game with public and private rooms.
+<br/>`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+**[Weather App](https://github.com/ben-anass/weather-app)** · [Live demo](https://meteoyoucode.vercel.app/)
+<br/>Multi-city weather app with current conditions and forecasts.
+<br/>`JavaScript` `Fetch API`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
 
 | Project | Description |
 |:--|:--|
@@ -154,33 +115,22 @@ A multi-city weather application with current conditions and forecasts.
 | [POOL-Z01](https://github.com/ben-anass/POOL-Z01) | Go programming |
 | [Pool C](https://github.com/ben-anass/Pool_C) | C programming exercises |
 
----
+</details>
 
-## GitHub Stats
+## Activity
 
 <div align="center">
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ben-anass&theme=tokyonight&background=0B1220&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
+<img src="https://streak-stats.demolab.com?user=ben-anass&theme=tokyonight&background=0B1220&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
 </div>
 
----
+## Let's Connect
 
-## Find me around the web 🌍
+Open to collaborations, learning opportunities and interesting projects.
 
-- 💼 Sharing updates on [LinkedIn](https://linkedin.com/in/anass-benabou-76b764393)
-- 💻 Explore my work on [GitHub](https://github.com/ben-anass)
+[GitHub](https://github.com/ben-anass) · [LinkedIn](https://linkedin.com/in/anass-benabou-76b764393) · [Email](mailto:triat.code@gmail.com)
 
 <div align="center">
-
-<br/>
-
-### Let's connect and create something meaningful.
-
 <sub>Designed with curiosity. Built with consistency.</sub>
 
 <img src="./assets/footer.svg" width="100%" alt="" />
-
 </div>
