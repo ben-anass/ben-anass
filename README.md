@@ -44,7 +44,7 @@ My approach is simple: **understand the problem, build a solution, and keep impr
 - 🔭 I'm currently working on my goal to become a great **Full Stack / Backend developer**
 - 🌱 I'm currently learning **Go, backend engineering & automation**
 - 💬 Ask me about **JavaScript, Go, Linux and web development**
-- 📫 How to reach me: [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+- 📫 How to reach me: [triat.code@gmail.com](mailto:triat.code@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love building things just to see how they work
 
