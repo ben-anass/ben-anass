@@ -170,7 +170,7 @@ A multi-city weather application with current conditions and forecasts.
 
 ## Find me around the web 🌍
 
-- 💼 Sharing updates on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 💼 Sharing updates on [LinkedIn](https://linkedin.com/in/anass-benabou-76b764393)
 - 💻 Explore my work on [GitHub](https://github.com/ben-anass)
 
 <div align="center">
