@@ -1,67 +1,54 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=210&section=header&text=ANASS%20BEN%20ABOU&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%7C%20CREATOR%20%7C%20LIFELONG%20LEARNER&descSize=13&descAlignY=59" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=230&section=header&text=ANASS%20BEN%20ABOU&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%26%20Backend%20Enthusiast&descSize=16&descAlignY=58" width="100%" />
 
-<br/>
-
-### Building ideas into digital experiences.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Development;Backend+%26+Automation;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi+I'm+Anass+%F0%9F%91%8B;Full+Stack+Development;Backend+%26+Automation;Always+learning.+Always+building." />
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ben-anass)
 [![Location](https://img.shields.io/badge/Morocco-0B1220?style=flat-square&logo=googlemaps&logoColor=38BDF8)](https://github.com/ben-anass)
-[![YouCode](https://img.shields.io/badge/YouCode-0B1220?style=flat-square&logo=42&logoColor=38BDF8)](https://github.com/ben-anass)
+[![YouCode](https://img.shields.io/badge/YouCode-0B1220?style=flat-square&logoColor=38BDF8)](https://github.com/ben-anass)
+[![Email](https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=gmail&logoColor=38BDF8)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
 
-<br/>
+## Hi, I'm Anass 👋
 
-## About
+I'm a **Full Stack Web Development student at YouCode, Morocco**. I enjoy building applications, exploring backend technologies, and turning ideas into useful digital products.
 
-I'm **Anass Ben Abou**, a Full Stack Web Development student at **YouCode, Morocco**.
-
-I enjoy developing applications, exploring backend technologies, and transforming ideas into useful digital products.
-
-My approach is simple: understand the problem, build a solution, and keep improving.
+My approach is simple: **understand the problem, build a solution, and keep improving.**
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**CURRENT FOCUS**
-
-- Full Stack Development
-- Backend Engineering
-- Go & JavaScript
-- Linux & Automation
-
-</td>
-<td width="50%" valign="top">
-
-**MY APPROACH**
-
-- Build real projects
-- Write clean code
-- Learn by experimenting
-- Collaborate and share
-
-</td>
-</tr>
-</table>
-
----
-
-## Technologies
+### I make *pretty* things using:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,go,c,html,css,tailwind,vite,git,github,linux,docker&theme=dark" />
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
+
+<br/>
+
+- 🔭 I'm currently working on my goal to become a great **Full Stack / Backend developer**
+- 🌱 I'm currently learning **Go, backend engineering & automation**
+- 💬 Ask me about **JavaScript, Go, Linux and web development**
+- 📫 How to reach me: [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love building things just to see how they work
 
 ---
 
@@ -150,9 +137,7 @@ A multi-city weather application with current conditions and forecasts.
 
 `JavaScript` `Fetch API`
 
-[Repository ↗](https://github.com/ben-anass/weather-app)
-
-[Live Demo ↗](https://meteoyoucode.vercel.app/)
+[Repository ↗](https://github.com/ben-anass/weather-app) · [Live Demo ↗](https://meteoyoucode.vercel.app/)
 
 </td>
 </tr>
@@ -173,22 +158,31 @@ A multi-city weather application with current conditions and forecasts.
 
 ---
 
-## Beyond the Code
+## GitHub Stats
 
 <div align="center">
 
-| 01 | 02 | 03 |
-|:---:|:---:|:---:|
-| **LEARN** | **BUILD** | **EVOLVE** |
-| Explore new ideas | Create real projects | Improve every day |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ben-anass&show_icons=true&theme=tokyonight&bg_color=0B1220&hide_border=true&title_color=38BDF8&icon_color=38BDF8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-anass&layout=compact&theme=tokyonight&bg_color=0B1220&hide_border=true&title_color=38BDF8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ben-anass&theme=tokyonight&background=0B1220&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+</div>
+
+---
+
+## Find me around the web 🌍
+
+- 💼 Sharing updates on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 💻 Explore my work on [GitHub](https://github.com/ben-anass)
+
+<div align="center">
 
 <br/>
 
 ### Let's connect and create something meaningful.
-
-[![GitHub](https://img.shields.io/badge/Explore_my_work-Visit_GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ben-anass)
-
-<br/>
 
 <sub>Designed with curiosity. Built with consistency.</sub>
 
