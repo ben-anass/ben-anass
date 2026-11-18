@@ -14,7 +14,7 @@
 
 ## About
 
-Full Stack Web Development, Morocco**. I build web applications, explore backend engineering, and turn ideas into useful digital products.
+Full Stack Web Development. I build web applications, explore backend engineering, and turn ideas into useful digital products.
 
 My approach is simple: **understand the problem, build a solution, keep improving.**
 
